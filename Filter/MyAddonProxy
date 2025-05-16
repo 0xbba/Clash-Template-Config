@@ -1,0 +1,6 @@
+# NAME: MyAddonProxy
+payload:
+  - DOMAIN-SUFFIX,tmdb.org
+  - DOMAIN-SUFFIX,themoviedb.org
+  - DOMAIN,yacd.haishan.me
+  - DOMAIN-SUFFIX,synology.com
