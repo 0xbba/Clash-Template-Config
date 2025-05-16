@@ -1,0 +1,9 @@
+# NAME: MyAddon
+payload:
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,oracle.com
+  - DOMAIN-SUFFIX,oraclecloud.com
+  - DOMAIN-SUFFIX,smtp
+  - DOMAIN,clash.razord.top
+  - DOMAIN-SUFFIX,lancache.steamcontent.com
+  - DOMAIN-SUFFIX,live.cn
