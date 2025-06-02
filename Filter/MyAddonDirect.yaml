@@ -7,3 +7,5 @@ payload:
   - DOMAIN,clash.razord.top
   - DOMAIN-SUFFIX,lancache.steamcontent.com
   - DOMAIN-SUFFIX,live.cn
+  - DOMAIN-SUFFIX,m-team.cc
+  - DOMAIN-SUFFIX,m-team.io
