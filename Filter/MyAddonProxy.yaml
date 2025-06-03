@@ -4,3 +4,4 @@ payload:
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN,yacd.haishan.me
   - DOMAIN-SUFFIX,synology.com
+  - DOMAIN-SUFFIX,cloudflare.com
