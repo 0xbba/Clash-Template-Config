@@ -6,3 +6,4 @@ payload:
   - DOMAIN-SUFFIX,synology.com
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,greasyfork.org
+  - DOMAIN-SUFFIX,v2ex.com
