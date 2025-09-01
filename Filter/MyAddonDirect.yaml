@@ -9,6 +9,6 @@ payload:
   - DOMAIN-SUFFIX,live.cn
   - DOMAIN-SUFFIX,m-team.cc
   - DOMAIN-SUFFIX,m-team.io
-  - PROCESS-NAME-REGEX,(?!)wechat
-  - PROCESS-NAME-REGEX,(?!)wexin
+  - PROCESS-NAME-REGEX,(?i)wechat
+  - PROCESS-NAME-REGEX,(?i)weixin
   - PROCESS-NAME-REGEX,.*Ctyun.*ssl_audit
