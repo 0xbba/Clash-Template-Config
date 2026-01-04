@@ -12,3 +12,5 @@ payload:
   - PROCESS-NAME-REGEX,(?i)wechat
   - PROCESS-NAME-REGEX,(?i)weixin
   - PROCESS-NAME-REGEX,.*Ctyun.*ssl_audit
+  - DOMAIN-SUFFIX,jd.com
+  - DOMAIN-SUFFIX,todesk.com
