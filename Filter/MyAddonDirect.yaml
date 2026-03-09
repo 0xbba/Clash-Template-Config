@@ -14,3 +14,8 @@ payload:
   - PROCESS-NAME-REGEX,.*Ctyun.*ssl_audit
   - DOMAIN-SUFFIX,jd.com
   - DOMAIN-SUFFIX,todesk.com
+  - DOMAIN-SUFFIX,checkip.synology.com
+  - DOMAIN-SUFFIX,checkipv6.synology.com
+  - DOMAIN-SUFFIX,checkport.synology.com
+  - DOMAIN-SUFFIX,ddns.synology.com
+  - DOMAIN-SUFFIX,account.synology.com
