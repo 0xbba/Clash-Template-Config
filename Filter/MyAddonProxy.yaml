@@ -3,7 +3,8 @@ payload:
   - DOMAIN-SUFFIX,tmdb.org
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN,yacd.haishan.me
-#  - DOMAIN-SUFFIX,synology.com
+  #QuickConnect使用国际账号
+  - DOMAIN-SUFFIX,account.synology.com
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,greasyfork.org
   - DOMAIN-SUFFIX,v2ex.com
