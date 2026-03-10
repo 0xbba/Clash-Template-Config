@@ -14,8 +14,8 @@ payload:
   - PROCESS-NAME-REGEX,.*Ctyun.*ssl_audit
   - DOMAIN-SUFFIX,jd.com
   - DOMAIN-SUFFIX,todesk.com
+  # 群晖DDNS获取外网IP有问题
   - DOMAIN-SUFFIX,checkip.synology.com
   - DOMAIN-SUFFIX,checkipv6.synology.com
   - DOMAIN-SUFFIX,checkport.synology.com
   - DOMAIN-SUFFIX,ddns.synology.com
-  - DOMAIN-SUFFIX,account.synology.com
